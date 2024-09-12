@@ -6,6 +6,8 @@ Ferramentas e Linguagens utilizadas:
 * CSS
 * JavaScript
 * Git
+* Google Icons
+* Google Font Icons
 
 Estrutura do projeto:
 
