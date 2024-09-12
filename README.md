@@ -6,3 +6,9 @@ Ferramentas e Linguagens utilizadas:
 * CSS
 * JavaScript
 * Git
+
+Estrutura do projeto:
+
+- Pagina inicial
+- Pagina de cadastro
+- Pagina de alterar
