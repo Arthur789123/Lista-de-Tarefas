@@ -4,9 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de Tarefas</title>
-    <!-- Link para o css abaixo -->
-    <link rel="stylesheet" href="src/Assets/style.css">
+    <title>Cadastro</title>
+    <link rel="stylesheet" href="../../Assets/style.css">
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -21,11 +20,14 @@
 <body>
     <div class="container">
         <header>
-            <h1>Lista de Tarefas</h1>
+            <h1>Cadastro de Tarefas</h1>
         </header>
 
         <main>
-
+            <div class="div-form">
+                <label for="input-tipo">Tipo:</label>
+                <input type="text" placeholder="Educação" id="input-tipo">
+            </div>
         </main>
 
         <footer>
@@ -39,8 +41,7 @@
     </div>
 
 
-    <!-- Link entre o html e o arquivo main.js -->
-    <script type="module" src="main.js"></script>
+    <script type="module" src="cadastro.js"></script>
 </body>
 
 </html>
