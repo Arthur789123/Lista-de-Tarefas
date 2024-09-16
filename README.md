@@ -18,7 +18,7 @@ Estrutura do projeto:
 Tarefas de requisitos para o Dev. Arthur
 
 1. [X]  Construir um mock de base e dados.
-2. [ ]  Construir uma label e input para "tarefa".
+2. [X]  Construir uma label e input para "tarefa".
 3. [ ]  Resgatar os 2 inputs para o arquivo cadastro.js, usando document.getElementByID.
 4. [ ]  Criar um botão abaixo dos inputs, com o texto Cadastrar.
 5. [ ]  Resgatar o botão com document.getElement...
