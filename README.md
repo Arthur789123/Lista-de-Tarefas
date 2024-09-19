@@ -22,4 +22,5 @@ Tarefas de requisitos para o Dev. Arthur
 3. [X]  Resgatar os 2 inputs para o arquivo cadastro.js, usando document.getElementByID.
 4. [X]  Criar um botão abaixo dos inputs, com o texto Cadastrar.
 5. [X]  Resgatar o botão com document.getElement...
-6. [ ]  no arquivo index.html, você deve criar uma DIV dentro da tag MAIN, com a class="div-lista" e id="lista"
+6. [X]  No arquivo index.html, você deve criar uma DIV dentro da tag MAIN, com a class="div-lista" e id="lista"
+7. [X]  Estilizar o botão, largura: 100px , Altura: 45px , Cor de fundo:Azul do projeto, não vai ter borda o botão, ao passar o mouse pelo o botão o azul tem que ficar claro.

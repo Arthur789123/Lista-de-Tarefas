@@ -71,6 +71,17 @@ input {
     border-radius: 10px;
 }
 
+.btn-1 {
+    width: 100px ;
+    height: 45px;
+    background-color: #2315ff;
+    border: none;
+}
+
+.btn-1:hover {
+background-color:#83c2f7;
+}
+
 
 .material-symbols-outlined {
     font-variation-settings:
