@@ -14,7 +14,7 @@ const data = [
     tarefa: "Jogar golf",
     status: false,
   },
-];
+];    
 
 const btnHome = document.getElementById('btn-home');
 const btnCadastro = document.getElementById('btn-cadastro');
