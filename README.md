@@ -28,4 +28,4 @@ Tarefas de requisitos para o Dev. Arthur
 9. [X]  No arquivo index html deve ser criado em container branco igual na pagina de cadastro.
 10. [X]  Conseguir responder oque é uma estrutura de repetição.
 11. [X]  Criar a pagina "editar.html" com as comfigurações de estilo
-12. [ ]  Refazer os campos de input e text area da pagina de cadstro similar para a pagina de editar.
+12. [X]  Refazer os campos de input e text area da pagina de cadstro similar para a pagina de editar.
