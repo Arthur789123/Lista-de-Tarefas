@@ -24,3 +24,5 @@ const btnCadastro = document.getElementById('btn-cadastro');
 btnCadastro.addEventListener('click', function () {
   window.location.href = "src/Pages/Cadastro/Cadastro.html"
 });
+
+
