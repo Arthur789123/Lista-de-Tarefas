@@ -26,8 +26,14 @@ header {
     height: 10%;
     color: white;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+header a {
+    color: white;
+    display: block;
 }
 
 main {
@@ -54,7 +60,7 @@ footer {
     border-radius: 10px;
 }
 
-.div-lista{
+.div-lista {
     background-color: #ededed;
     width: 80%;
     height: 80%;
@@ -70,7 +76,8 @@ footer {
     border-radius: 10px;
 }
 
-label, input {
+label,
+input {
     display: block;
     margin-bottom: 5px;
 }
@@ -87,15 +94,29 @@ input {
     border-radius: 10px;
 }
 
+textarea {
+    font-size: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    height: 150px;
+    border-radius: 10px;
+    width: 90%;
+}
+
 .btn-1 {
-    width: 100px ;
+    width: 200px;
     height: 45px;
     background-color: #2315ff;
-    border: none;
+    border: 1px solid black;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border-radius: 10px;
 }
 
 .btn-1:hover {
-background-color:#83c2f7;
+    background-color: rgb(114, 186, 245);
+    color: black;
 }
 
 .material-symbols-outlined:hover {
@@ -156,4 +177,15 @@ background-color:#83c2f7;
     font-family: "Ubuntu", sans-serif;
     font-weight: 700;
     font-style: italic;
+}
+
+.div-tarefa {
+    border-bottom: 1px solid blue;
+    margin-bottom: 15px;
+}
+
+.div-tarefa:hover {
+    color: #140c82;
+    cursor: pointer;
+    zoom: 1.1;
 }
